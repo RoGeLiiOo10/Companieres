@@ -16,7 +16,7 @@ public class Nodo{
     public void pintar(Graphics g){
         g.drawOval(this.x - d/2, this.y - d/2, d, d);
         g.drawString(nombre, x, y);
-       
+   
     }
 
     public String getNombre() {

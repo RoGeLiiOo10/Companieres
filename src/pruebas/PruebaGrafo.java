@@ -1,7 +1,7 @@
 package pruebas;
 
 import clases.Lienzo;
-import javax.swing.JFrame;
+import javax.swing.JFrame; 
 
 public class PruebaGrafo{
     public static void main(String[] args) {
